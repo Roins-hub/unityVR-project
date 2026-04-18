@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+# unityVR-project
+
+VR项目，推荐使用 Unity 2022.3.62f2c1 编辑器版本。
+
+## Original Project Notes
+
 # The alchemy lab : a VR project with High Definition Render Pipeline
 
 This project is designed for the Oculus Rift and Rift S. It's made using Unity 2019.3.1f1 and HDRP 7.2.0.
@@ -92,7 +97,3 @@ The Cauldron interacts with the test tubes and open flasks. Spill their liquid i
 Explore the scene and find more interactions : chests, 
 
 Many objects in the scene have a physical behavior (Table cloth, spider web, mug, skull, …).
-=======
-# unityVR-project
-VR项目
->>>>>>> upload/main
