@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Loader.unity
+    guid: 4a7874fb46767434eb7cbb6ba532d459
+  - enabled: 1
+    path: Assets/Scene/Laboratory.unity
+    guid: df6a321f2c74d62409d78fbf1f1f6735
+  - enabled: 1
+    path: Assets/Scene/Laboratory VR Lighting.unity
+    guid: abb0aba812f58a548bc327fc28706ae9
+  - enabled: 1
+    path: Assets/Graph/VFX/LiquidPour/GeoBake/GeoBake.unity
+    guid: 650eebaf88f33e7419e061df6f4ccec5
+  - enabled: 1
+    path: Assets/Scene/LaboratorySD.unity
+    guid: 9baa84b444b1d3646a755fc2edf643f2
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: eb8cc217edb077144a20138835b2d490,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 6fd58968266f240478934eade40f8af6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5f72a53ad7b133d469791d5434560c76,
+      type: 2}
