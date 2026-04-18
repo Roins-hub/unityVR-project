@@ -2,11 +2,11 @@
 
 VR项目，推荐使用 Unity 2022.3.62f2c1 编辑器版本。
 
-## Original Project Notes
+## Project Notes
 
 # The alchemy lab : a VR project with High Definition Render Pipeline
 
-This project is designed for the Oculus Rift and Rift S. It's made using Unity 2019.3.1f1 and HDRP 7.2.0.
+This project is designed for the Oculus Rift and Rift S. Use Unity 2022.3.62f2c1 to open and edit this project.
 
 The controllers are not configured correctly for other VR platforms.
 
